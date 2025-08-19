@@ -1,4 +1,4 @@
-# Fraud Detection Analysis Project (Portfolio-Ready)
+# Fraud Detection Analysis Project
 
 End-to-end project with synthetic transactions, SQL analytics, an interactive dashboard, and a trainable ML baseline.
 Open `dashboard/index.html`, run the SQL in `sql/`, or retrain with `src/train_model.py`.
